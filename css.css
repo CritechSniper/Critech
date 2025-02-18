@@ -38,3 +38,8 @@ textarea, select {
 time, select {
     color: black;
 }
+.search {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
